@@ -207,7 +207,7 @@ Arithmetic on [Baby Jubjub elliptic curve](https://github.com/barryWhiteHat/baby
 
 - `IsZero() `
 
-    - DESCRIPTION 
+    - DESCRIPTION : 
         Checks whether the argument is zero or not.
     - SCHEMA
     - INPUT
