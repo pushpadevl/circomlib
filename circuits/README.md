@@ -211,17 +211,17 @@ Arithmetic on [Baby Jubjub elliptic curve](https://github.com/barryWhiteHat/baby
         Checks whether the argument is zero or not.
     - SCHEMA
     - INPUT
-    - OUTPUT
+    - OUTPUT : Returns 1 if true, 0 otherwise
     - BENCHMARKS
     - EXAMPLE
 
 - `IsEqual()`
 
-    - DESCRIPTION
+    - DESCRIPTION : 
         Checks whether the two inputs (first element at in[0], second at in[1]) are equal or not
     - SCHEMA
     - INPUT
-    - OUTPUT
+    - OUTPUT :
     Returns 1 if true, 0 otherwise
     - BENCHMARKS
     - EXAMPLE
@@ -237,33 +237,30 @@ Arithmetic on [Baby Jubjub elliptic curve](https://github.com/barryWhiteHat/baby
 
 - `LessThan()`
 
-    - DESCRIPTION 
-        Compares the input[0] < input[1]. Returns 1 if true, 0 otherwise
+    - DESCRIPTION : Compares the input[0] < input[1]. Returns 1 if true, 0 otherwise
     - SCHEMA
     - INPUT
-    - OUTPUT
+    - OUTPUT :
     Returns 1 if true, 0 otherwise
     - BENCHMARKS
     - EXAMPLE
 
 - `GreaterThan()`
 
-    - DESCRIPTION
-        Compares the input[0] > input[1]. 
+    - DESCRIPTION : Compares the input[0] > input[1]. 
     - SCHEMA
     - INPUT
-    - OUTPUT
+    - OUTPUT :
     Returns 1 if true, 0 otherwise
     - BENCHMARKS
     - EXAMPLE
 
 - `GreaterEqThan()`
 
-    - DESCRIPTION
-        Compares the input[0] >= input[1]. Returns 1 if true, 0 otherwise
+    - DESCRIPTION : Compares the input[0] >= input[1]. Returns 1 if true, 0 otherwise
     - SCHEMA
     - INPUT
-    - OUTPUT
+    - OUTPUT :
     Returns 1 if true, 0 otherwise
     - BENCHMARKS
     - EXAMPLE
