@@ -210,10 +210,10 @@ Arithmetic on [Baby Jubjub elliptic curve](https://github.com/barryWhiteHat/baby
     - DESCRIPTION : 
         Checks whether the argument is zero or not.
     - SCHEMA
-    - INPUT
+    - INPUT: 
     - OUTPUT : Returns 1 if true, 0 otherwise
     - BENCHMARKS
-    - EXAMPLE
+    - EXAMPLE 
 
 - `IsEqual()`
 
