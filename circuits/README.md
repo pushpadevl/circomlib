@@ -35,6 +35,10 @@
 
 Folder containing the implementation of sha256 hash circuit.
 
+### Shamir Secret Sharing
+
+Folder containng the implementation of shamir secret sharing.
+
 ### smt
 
 Folder containing the circuit implementation of Sparse Merkle Trees.
